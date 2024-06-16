@@ -182,18 +182,9 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png" group-title="Федеральные",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" group-title="Выбор подписчиков",BackusTV original HD
-https://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" group-title="Выбор подписчиков",BackusTV dark HD
-http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" group-title="Выбор подписчиков",BackusTV Music HD
-https://playlist.nuum.ru/live/5478/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" group-title="Выбор подписчиков",E TV HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" group-title="Выбор подписчиков",Discovery HD
-http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" group-title="Выбор подписчиков",ID Xtra HD
-http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epgx.site/p/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
@@ -220,6 +211,7 @@ http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 http://hitfm.hostingradio.ru/hitfm128.mp3
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио",Юмор FM
 http://ic7.101.ru:8000/v5_1
+
 
 --- ТЕСТ ---
 
@@ -260,3 +252,15 @@ http://autopilot.catcast.tv/content/37745/index.m3u8
 http://autopilot.catcast.tv/content/37742/index.m3u8
 #EXTINF:-1 group-title="Тест",LIVE:Полицейский с Рублевки
 https://nl2.live-stream.plus.taurer.org/RuCsPSXGYe/DgFExKzqEw/15.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="backustv" tvg-logo="https://epgx.site/p/backustv.png" ,BackusTV original HD
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="backustv-horror" tvg-logo="https://epgx.site/p/backustv-horror.png" ,BackusTV dark HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" ,BackusTV Music HD
+https://playlist.nuum.ru/live/5478/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" ,E TV HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" ,Discovery HD
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="Тест" tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" ,ID Xtra HD
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
