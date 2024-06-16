@@ -236,7 +236,7 @@ https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/2.m3u8
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/7.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="QUALITY" tvg-logo="https://tv.taurer.org/iptv_content/logos/QUALITYHD_TEMP.png",Quality HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/6.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="KULINAR" tvg-logo="https://tv.taurer.org/iptv_content/logos/KULINAR_TEMP.png",Кулинар HD
+#EXTINF:-1 group-title="Тест" tvg-id="KULINAR" tvg-logo="https://otv.pp.ua/channel_thumb/uploads/png/0e776e6258cd2be73404bc27a480e0a7.png",Кулинар HD
 https://nl2.live-stream.plus.taurer.org:443/RuCsPSXGYe/DgFExKzqEw/14.m3u8
 #EXTINF:-1 group-title="Тест" tvg-logo="https://i.postimg.cc/pPFbCZky/1.png",Sunset Space
 https://stream.sunset-media.ru:443/Free/Free/3.m3u8
