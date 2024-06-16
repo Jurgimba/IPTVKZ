@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
 
+#EXTINF:0 tvg-name="--- КАЗАХСТАН ---"
+
 #EXTINF:0 group-title="Казахстан" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
