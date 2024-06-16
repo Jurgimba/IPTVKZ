@@ -124,18 +124,20 @@ https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" group-title="Федеральные",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Федеральные",Россия 1 HD
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" group-title="Федеральные",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="Федеральные"id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" ,Россия К (HD)
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Федеральные",Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/21
+#EXTINF:-1 id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Федеральные",Россия-Культура HD
+https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Федеральные",Матч ТВ
 http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png" group-title="Федеральные",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Федеральные",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" group-title="Федеральные",Россия-Культура HD
-https://player.smotrim.ru/iframe/stream/live_id/19201
-#EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" group-title="Федеральные",Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/21
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Федеральные",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="karusel" tvg-logo="https://epgx.site/p/karusel.png" group-title="Федеральные",Карусель
