@@ -30,7 +30,7 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:0 group-title="Казахстан" tvg-id="7kanal-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/7kanal-kz.png",7 канал
 https://stream.tv7.kz/hls/stream.m3u8
 
-#EXTINF:0 group-title="Казахстан" tvg-id="31-kanal-kz" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/31-kanal-kz.png",31 канал
+#EXTINF:0 group-title="Казахстан" tvg-id="31-kanal-kz" tvg-logo="https://raw.githubusercontent.com/Jurgimba/IPTVKZ/Logos/31-kanal-kz.png",31 канал
 https://stream.qazcdn.net/31kz/31kz/playlist.m3u8
 
 #EXTINF:0 group-title="Казахстан" tvg-id="almaty" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/almaty.png",Almaty TV
