@@ -120,7 +120,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 --- РОССИЯ ---
 
 
-#EXTINF:0 group-title="Россия" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png",Первый HD
+#EXTINF:-1 group-title="Россия" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png",Первый HD
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
 #EXTINF:-1 group-title="Россия" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" ,Первый канал HD
