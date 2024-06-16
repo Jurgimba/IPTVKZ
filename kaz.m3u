@@ -229,8 +229,6 @@ https://stream.backustv.ru/live/btv/index.m3u8
 http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="backustv-music" tvg-logo="https://epgx.site/p/backustv-music.png" ,BackusTV Music HD
 https://playlist.nuum.ru/live/5478/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Тест" tvg-id="e-tv" tvg-logo="https://epgx.site/p/e-tv.png" ,E TV HD
-http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="discovery-channel" tvg-logo="https://epgx.site/p/discovery-channel.png" ,Discovery HD
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Тест" tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" ,ID Xtra HD
