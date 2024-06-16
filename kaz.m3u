@@ -147,6 +147,13 @@ http://91.142.158.107:8092/play/33/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Россия" tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png" ,НТВ Хит
+http://92.242.110.52:9835/udp/238.1.7.27:1234
+
+#EXTINF:-1 group-title="Россия" tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 
