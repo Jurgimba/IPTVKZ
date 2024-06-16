@@ -194,8 +194,6 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" tvg-logo="https://epgx.site/p/idxtra.png" group-title="Выбор подписчиков",ID Xtra HD
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="dorama" tvg-logo="https://epgx.site/p/dorama.png" group-title="Выбор подписчиков",Дорама
-http://ott-cdn.ucom.am/s95/04.m3u8
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
 http://ic7.101.ru:8000/v3_1
 #EXTINF:-1 tvg-id="dorozhnoe-radio" tvg-logo="https://epgx.site/p/dorozhnoe-radio.png" group-title="Радио",Дорожное Радио
