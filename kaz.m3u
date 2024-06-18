@@ -128,6 +128,9 @@ http://176.10.117.3:5000/play/a01e/index.m3u8
 
 ##--- КАЗАХСТАН ---
 
+#EXTINF:-1 group-title="Казахстан",Ertis
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+
 #EXTINF:-1 group-title="Казахстан" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
