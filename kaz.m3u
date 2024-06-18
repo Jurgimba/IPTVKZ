@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
 
---- Германия ---
+##--- Германия ---
+
 #EXTINF:-1 group-title="Германия",Erz-TV Stollberg (576p)
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 group-title="Германия",HSE (1080p)
@@ -125,7 +126,7 @@ http://176.10.117.3:5000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Германия",zdf_neo HD
 http://176.10.117.3:5000/play/a01e/index.m3u8
 
---- КАЗАХСТАН ---
+##--- КАЗАХСТАН ---
 
 #EXTINF:-1 group-title="Казахстан" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
@@ -242,7 +243,7 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
 
---- РОССИЯ ---
+##--- РОССИЯ ---
 
 
 #EXTINF:-1 group-title="Россия" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png",Первый HD
@@ -354,7 +355,7 @@ http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 
 
---- ДЕТСКИЕ ---
+##--- ДЕТСКИЕ ---
 
 
 #EXTINF:-1 group-title="Детские" tvg-id="ani" tvg-logo="https://epgx.site/p/ani.png" ,Ani
@@ -410,7 +411,7 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
 
---- Развлекательные ---
+##--- Развлекательные ---
 
 
 #EXTINF:-1 tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png" group-title="Развлекательные",2x2
@@ -480,7 +481,7 @@ http://178.212.71.253:8002/play/a00s/index.m3u8
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
 
 
---- Музыкальные ---
+##--- Музыкальные ---
 
 
 #EXTINF:-1 tvg-id="1hd" tvg-logo="https://epgx.site/p/1hd-music.png" group-title="Музыкальные",1HD (HD)
@@ -532,7 +533,7 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
 
 
---- Кинозал ---
+##--- Кинозал ---
 
 #EXTINF:-1 group-title="Кинозал",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
@@ -636,7 +637,7 @@ http://188.113.190.15/182/tracks-v1a1/index.m3u8
 #EXTINF:-1  tvg-id="4780" tvg-logo="http://epg.it999.ru/img2/4780.png" group-title="Кинозал",Фантастика (HD)
 http://hlss.goodgame.ru/hls/187241.m3u8
 
---- Русский кинозал ---
+##--- Русский кинозал ---
 
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://epgx.site/p/start-air.png" group-title="Русский кинозал",Start Air (HD)
 http://92.242.110.52:9835/udp/238.1.7.28:1234
@@ -677,7 +678,7 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 http://188.113.190.15/24/mono.m3u8
 
 
---- Познавательные ---
+##--- Познавательные ---
 
 #EXTINF:-1 tvg-id="365-dnej" tvg-logo="https://epgx.site/p/365-dnej.png" group-title="Познавательные",365 Дней
 http://188.113.190.15/301/tracks-v1a1/index.m3u8
@@ -746,7 +747,7 @@ https://flussonic.beeonline.az/sovershennosekretno/index.m3u8?token=test
 
 
 
---- Хобби и увлечения ---
+##--- Хобби ---
 
 
 #EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://epgx.site/p/fashion-tv.png" group-title="Хобби и увлечения",Fashion TV (HD)
@@ -802,7 +803,7 @@ http://188.113.190.15/71/tracks-v1a1/index.m3u8
 
 
 
---- БЕЛАРУСЬ ---
+##--- БЕЛАРУСЬ ---
 
 
 #EXTINF:-1 group-title="Беларусь" tvg-id="belarus1" tvg-logo="https://epgx.site/p/belarus1hd.png",Беларусь 1 (HD)
@@ -821,7 +822,7 @@ https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 http://80.94.225.126:8080/STV/mono.m3u8
 
 
---- ТЕСТ ---
+##--- ТЕСТ ---
 
 
 #EXTINF:-1 group-title="Тест" tvg-id="NINJA" tvg-logo="https://tv.taurer.org/iptv_content/logos/NINJA_TEMP.png",Ninja
@@ -872,7 +873,7 @@ http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
 http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
 
---- РАДИО ---
+##--- РАДИО ---
 
 
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://epgx.site/p/avtoradio.png" group-title="Радио",Авторадио
