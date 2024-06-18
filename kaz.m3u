@@ -1,5 +1,96 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" 
 
+--- Германия ---
+
+#EXTINF:-1 group-title="Германия",3+ HD
+http://176.10.117.3:5000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Германия",3sat HD
+http://176.10.117.3:5000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Германия",4+ HD
+http://176.10.117.3:5000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Германия",5+ HD
+http://176.10.117.3:5000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Германия",6+ HD
+http://176.10.117.3:5000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Германия",7+ / Nick HD
+http://176.10.117.3:5000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Германия",ARD-alpha HD
+http://176.10.117.3:5000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Германия",ComedyCentral HD
+http://176.10.117.3:5000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Германия",DMAX HD
+http://176.10.117.3:5000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Германия",Das Erste HD
+http://176.10.117.3:5000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Германия",Disney Channel
+http://176.10.117.3:5000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Германия",Eurosport 1
+http://176.10.117.3:5000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Германия",Kanal 9 HD
+http://176.10.117.3:5000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Германия",KiKA HD
+http://176.10.117.3:5000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Германия",MTV HD
+http://176.10.117.3:5000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Германия",NITRO
+http://176.10.117.3:5000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Германия",ONE HD
+http://176.10.117.3:5000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Германия",ORF 1 HD
+http://176.10.117.3:5000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Германия",ORF 2 HD
+http://176.10.117.3:5000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Германия",ORF III HD
+http://176.10.117.3:5000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Германия",ProSieben
+http://176.10.117.3:5000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Германия",ProSieben MAXX
+http://176.10.117.3:5000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Германия",RTL
+http://176.10.117.3:5000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Германия",RTLZWEI
+http://176.10.117.3:5000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Германия",SAT.1
+http://176.10.117.3:5000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Германия",SAT.1 Gold
+http://176.10.117.3:5000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Германия",SIXX
+http://176.10.117.3:5000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Германия",SRF 1 HD
+http://176.10.117.3:5000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Германия",SRF info HD
+http://176.10.117.3:5000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Германия",SRF zwei HD
+http://176.10.117.3:5000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Германия",ServusTV HD
+http://176.10.117.3:5000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Германия",Super RTL
+http://176.10.117.3:5000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Германия",Tele 1 HD
+http://176.10.117.3:5000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Германия",TeleBärn HD
+http://176.10.117.3:5000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Германия",TeleZüri HD
+http://176.10.117.3:5000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Германия",Telebasel HD
+http://176.10.117.3:5000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Германия",VOX
+http://176.10.117.3:5000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Германия",ZDF HD
+http://176.10.117.3:5000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Германия",arte HD
+http://176.10.117.3:5000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Германия",kabel eins
+http://176.10.117.3:5000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Германия",phoenix HD
+http://176.10.117.3:5000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Германия",sport1 HD
+http://176.10.117.3:5000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Германия",tagesschau24 HD
+http://176.10.117.3:5000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Германия",zdf_neo HD
+http://176.10.117.3:5000/play/a01e/index.m3u8
+
 --- КАЗАХСТАН ---
 
 #EXTINF:-1 group-title="Казахстан" tvg-id="kazakhstan" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan
