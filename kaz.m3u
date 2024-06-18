@@ -251,109 +251,74 @@ https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
 #EXTINF:-1 group-title="Россия" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png",Первый HD
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="pervy" tvg-logo="https://epgx.site/p/pervy.png" ,Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-
 #EXTINF:-1 group-title="Россия" tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" ,Россия 1 HD
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="rossia1" tvg-logo="https://epgx.site/p/rossia1.png" ,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia1-sd/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png" ,Россия К (HD)
 https://player.smotrim.ru/iframe/stream/live_id/19201
-
 #EXTINF:-1 group-title="Россия" tvg-id="rossia-24" tvg-logo="https://epgx.site/p/rossia-24.png" ,Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/21
-
 #EXTINF:-1 group-title="Россия" tvg-id="kultura" tvg-logo="http://epg.it999.ru/img2/187.png",Россия-Культура HD
 https://player.smotrim.ru/iframe/stream/live_id/19201
-
 #EXTINF:-1 group-title="Россия" tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png",Матч ТВ
 http://91.142.158.107:8092/play/33/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="ntv" tvg-logo="https://epgx.site/p/ntv.png",НТВ HD
 http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png" ,НТВ Хит
 http://92.242.110.52:9835/udp/238.1.7.27:1234
-
 #EXTINF:-1 group-title="Россия" tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png",Пятый канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="karusel" tvg-logo="https://epgx.site/p/karusel.png",Карусель
 https://player.smotrim.ru/iframe/stream/live_id/61126
-
 #EXTINF:-1 group-title="Россия" tvg-id="solnce" tvg-logo="https://epgx.site/p/solnce.png",Солнце
 http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png",ОТР
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="tvcentr" tvg-logo="https://epgx.site/p/tvcentr.png",ТВ Центр
 http://31.148.6.9:10010/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="rentv" tvg-logo="https://epgx.site/p/rentv.png",РЕН ТВ
 http://185.37.150.46:8092/RenTV_HD/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="spas" tvg-logo="http://epg.it999.ru/img2/2141.png",Спас
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png",СТС HD
 http://31.131.136.4:8001/play/e001
-
 #EXTINF:-1 group-title="Россия" tvg-id="sts-love" tvg-logo="https://epgx.site/p/sts-love.png",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png",Суббота HD
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний HD
 https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="tv3-ru" tvg-logo="https://epgx.site/p/tv3-ru.png",ТВ-3
 http://86.57.178.105:9951/tv3
-
 #EXTINF:-1 group-title="Россия" tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png",Пятница!
 http://92.242.110.52:9835/udp/238.1.11.46:1234
-
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda" tvg-logo="https://epgx.site/p/zvezda.png",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="zvezda-plus" tvg-logo="https://epgx.site/p/zvezda-plus.png",Звезда плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="mir" tvg-logo="https://epgx.site/p/mir.png",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="tnt" tvg-logo="https://epgx.site/p/tnt.png",ТНТ HD
 http://92.242.110.52:9835/udp/238.1.4.4:1234
-
 #EXTINF:-1 group-title="Россия" tvg-id="tnt4" tvg-logo="https://epgx.site/p/tnt4.png",ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="muztv" tvg-logo="https://epgx.site/p/muztv.png",Муз-ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="2na2" tvg-logo="https://epgx.site/p/2na2.png",2x2
 http://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="che" tvg-logo="https://epgx.site/p/che.png",Че!
 http://178.212.71.253:8002/play/a00s/index.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="yu" tvg-logo="https://epgx.site/p/yu.png",Ю HD
 http://cdn-01.bonus-tv.ru/u/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="Россия" tvg-id="rtd-ru" tvg-logo="https://epgx.site/p/rt-doc.png",RTД HD
 https://hls.rt.com/hls/rtdru.m3u8
 
