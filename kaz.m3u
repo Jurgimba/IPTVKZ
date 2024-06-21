@@ -185,8 +185,6 @@ https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mtrk-petropavl.png",МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
-#EXTINF:-1 group-title="Россия",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/pervy.png",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/rossia1.png",Россия 1
