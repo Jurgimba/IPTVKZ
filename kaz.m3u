@@ -125,8 +125,7 @@ http://176.10.117.3:5000/play/a01c/index.m3u8
 http://176.10.117.3:5000/play/a01e/index.m3u8
 
 
-#EXTINF:-1 group-title="Казахстан",РЕН ТВ
-https://ge.streamsport.net:8080/hls/ren/chunks.m3u8?nimblesessionid=737346&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDU6MTY6NDIgUE0maGFzaF92YWx1ZT15OGZtZkFFQ2xNWVdjaDgzZVY1NXVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU
+
 #EXTINF:-1 group-title="Казахстан",Казахстан Караганды
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Казахстан
@@ -242,6 +241,8 @@ http://92.242.110.52:9835/udp/238.1.1.26:1234
 http://92.242.110.52:9835/udp/238.1.4.4:1234
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/tnt4.png",ТНТ4
 http://91.205.199.3:80/tnt4/index.m3u8
+#EXTINF:-1 group-title="Россия",РЕН ТВ
+https://ge.streamsport.net:8080/hls/ren/chunks.m3u8?nimblesessionid=737346&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDU6MTY6NDIgUE0maGFzaF92YWx1ZT15OGZtZkFFQ2xNWVdjaDgzZVY1NXVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/muztv.png",Муз-ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/2na2.png",2x2
