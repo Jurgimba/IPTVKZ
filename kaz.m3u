@@ -256,8 +256,6 @@ http://stream01.vnet.am/Tiji/mono.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/detsky-mir.png",Детский мир
 http://stream01.vnet.am/CartoonNetwork/mono.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/liova.png",Лёва (HD)
-http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/mama.png",Мама
 http://stream01.vnet.am/Mama/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/mult.png",Мульт (HD)
@@ -427,8 +425,7 @@ http://188.113.190.15/48/tracks-v1a1/index.m3u8
 http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/sapfir.png",Сапфир (HD)
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Кинозал" tvg-logo="http://epg.it999.ru/img2/4780.png",Фантастика (HD)
-http://hlss.goodgame.ru/hls/187241.m3u8
+
 
 #EXTINF:-1 group-title="Русский кинозал" tvg-logo="https://epgx.site/p/start-air.png",Start Air (HD)
 http://92.242.110.52:9835/udp/238.1.7.28:1234
@@ -442,8 +439,6 @@ http://188.113.190.15/91/tracks-v1a1/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Русский кинозал" tvg-logo="https://epgx.site/p/mosfilm.png",Мосфильм. Золотая коллекция
 http://92.242.110.52:9835/udp/238.1.11.51:1234
-#EXTINF:-1 group-title="Русский кинозал" tvg-logo="https://epgx.site/p/nashe-novoe-kino.png",Наше Новое Кино
-https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
 #EXTINF:-1 group-title="Русский кинозал" tvg-logo="http://epg.it999.ru/img2/2447.png",Победа
 http://188.113.190.15/85/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Русский кинозал" tvg-logo="https://epgx.site/p/russky-bestseller.png",Русский бестселлер
@@ -580,3 +575,30 @@ http://autopilot.catcast.tv/content/37739/index.m3u8
 http://autopilot.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 group-title="Тест",Музыка 2 International
 http://autopilot.catcast.tv/content/37742/index.m3u8
+
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/avtoradio.png",Авторадио
+http://ic7.101.ru:8000/v3_1
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/dorozhnoe-radio.png",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 group-title="Радио" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio.png",Наше радио
+http://nashe1.hostingradio.ru:80/nashe-256
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-dfm.png",Радио DFM
+http://dfm.hostingradio.ru/dfm128.mp3
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-mayak.png",Радио Маяк
+http://icecast.vgtrk.cdnvideo.ru/mayakfm
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-mir.png",Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-na7xolmax.png",Радио на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-romantika.png",Радио Романтика
+http://ic7.101.ru:8000/v4_1
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-shanson.png",Радио Шансон
+http://chanson.hostingradio.ru:8041/chanson256.mp3
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/radio-vania.png",Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/retro-fm.png",Ретро FM
+http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/xit-fm.png",Хит FM
+http://hitfm.hostingradio.ru/hitfm128.mp3
+#EXTINF:-1 group-title="Радио" tvg-logo="https://epgx.site/p/yumor-fm.png",Юмор FM
+http://ic7.101.ru:8000/v5_1
