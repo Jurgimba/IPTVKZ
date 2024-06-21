@@ -231,8 +231,8 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 http://86.57.178.105:9951/tv3
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/zvezda.png",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/piatnica.png",Пятница
-https://mix.streamsport.net:8080/hls/friday/chunks.m3u8?nimblesessionid=57232909&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDU6MzM6MzQgUE0maGFzaF92YWx1ZT0wek55YjJqUEM4WUlvVXhzMWRWQU93PT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU=http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int
+https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/piatnica.png",Пятница
 http://92.242.110.52:9835/udp/238.1.11.46:1234
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/mir.png",Мир HD
@@ -448,8 +448,6 @@ http://95.156.76.230:33001/udp/230.4.34.6:1234
 http://146.158.0.56/Nostalgiya/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/perec.png",Перец
 http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int
-https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/sarafan.png",Сарафан
 http://178.124.179.122:8088/Sarafan/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://epgx.site/p/tvoyo-tv-hd.png",Твоё ТВ (HD)
