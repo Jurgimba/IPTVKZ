@@ -34,7 +34,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
 #EXTINF:-1 group-title="Германия" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/okwernigerode.png",OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-
 #EXTINF:-1 group-title="Германия",3+ HD
 http://176.10.117.3:5000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Германия",3sat HD
@@ -123,8 +122,6 @@ http://176.10.117.3:5000/play/a00f/index.m3u8
 http://176.10.117.3:5000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="Германия",zdf_neo HD
 http://176.10.117.3:5000/play/a01e/index.m3u8
-
-
 
 #EXTINF:-1 group-title="Казахстан",Казахстан Караганды
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
