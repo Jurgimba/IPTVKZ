@@ -226,7 +226,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 http://86.57.178.105:9951/tv3
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/zvezda.png",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/piatnica.png",Пятница
 http://92.242.110.52:9835/udp/238.1.11.46:1234
