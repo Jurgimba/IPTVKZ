@@ -127,57 +127,59 @@ http://176.10.117.3:5000/play/a01e/index.m3u8
 
 #EXTINF:-1 group-title="Казахстан",Ertis
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Qazaqstan
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kazakhstan.png",Казахстан
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qazaqstan-int.png",Qazaqstan International
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qazaqstan-int.png",Казахстан Int
 https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qazaqstan-int.png",Qazaqstan TV
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qazaqstan-int.png",Казахстан TV
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
 #EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar.png",Хабар
 https://livekhabar-srt.cdnvideo.ru/khabarsrt/khabarsrt/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан",Хабар 24 TV
+#EXTINF:-1 group-title="Казахстан",Хабар 24
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/tracks-v1a1/mono.m3u8?hls_proxy_host=c707281677c1d50d2dfd3ea1873074be
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24KZ
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/xabar24.png",24 KZ
 https://24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/el-arna.png",El Arna
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/el-arna.png",Ел Арна
 https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/silkway.png",Silk Way
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/silkway.png",Силк Вэй
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/ktk-kz.png",КТК
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Казахстан",НТК
 https://video-cdn-1.ntk.kz/live/ntk-live-loop/chunklist_w873972237.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atameken-business.png",Atameken Business Channel
+#EXTINF:-1 group-title="Казахстан",Балапан
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/chunks.m3u8
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atameken-business.png",Атамекен
 https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png",Altai
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/altai-kz.png",Алтай
 https://stream.kaztrk.kz/regional/oskementv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqjaiyq.png",Aqjaiyq
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqjaiyq.png",Акжайык
 https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqtobe.png",Aqtobe
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/aqtobe.png",Актобе
 https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atyray.png",Atyrau
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/atyray.png",Атырау
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/jambyl-kz.png",Jambyl
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/jambyl-kz.png",Жамбыл
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kokshe.png",Kokshe
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/kokshe.png",Кокше
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mangystay.png",Mangystau
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mangystay.png",Мангистау
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/ontustik.png",Ontustik
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/ontustik.png",Онтустык
 https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qostanai-kz.png",Qostanai
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qostanai-kz.png",Костанай
 https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzyljar.png",Qyzyljar
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzyljar.png",Кызыжар
 https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzylorda-kz.png",Qyzylorda
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/qyzylorda-kz.png",Кызылорда
 https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png",Saryarqa
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/saryarqa.png",Сарыарка
 https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/semei.png",Semei
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/semei.png",Семей
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/rika.png",Рика ТВ
 https://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mtrk-petropavl.png",МТРК Петропавл
+#EXTINF:-1 group-title="Казахстан" tvg-logo="https://aidoseg.github.io/qazaqiptv/picons/mtrk-petropavl.png",МТРК
 https://tvcdn01.oktv.kz/tv/mtrk/index.m3u8
 
 #EXTINF:-1 group-title="Россия",Первый канал HD
