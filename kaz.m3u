@@ -231,7 +231,6 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 http://86.57.178.105:9951/tv3
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/zvezda.png",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/zvezda-plus.png",Звезда плюс HD
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/piatnica.png",Пятница
 https://mix.streamsport.net:8080/hls/friday/chunks.m3u8?nimblesessionid=57232909&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDU6MzM6MzQgUE0maGFzaF92YWx1ZT0wek55YjJqUEM4WUlvVXhzMWRWQU93PT0mdmFsaWRtaW51dGVzPTYwJmlkPSZjaGVja2lwPXRydWU=http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://epgx.site/p/piatnica.png",Пятница
