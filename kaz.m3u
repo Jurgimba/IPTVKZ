@@ -290,8 +290,6 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://epgx.site/p/unikum.png",Уникум
 http://188.113.190.15/41/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Кинозал",Кино 1
-https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/sony-turbo.png",Black
 http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/sony.png",Red
@@ -344,6 +342,8 @@ http://109.239.208.82:80/eurokino/index.m3u8
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/zee-tv.png",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
+#EXTINF:-1 group-title="Кинозал",Кино 1
+https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/kineko.png",Кинеко
 http://92.242.110.52:9835/udp/238.1.8.12:1234
 #EXTINF:-1 group-title="Кинозал" tvg-logo="https://epgx.site/p/kinomiks.png",Киномикс
